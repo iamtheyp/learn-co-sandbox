@@ -1,0 +1,7 @@
+When we run a function's instructions, we have "called" the function
+when we declare a function we start with function keyword
+function doNothing(){}
+we didn't give it any instructions
+We pass a function instructions between {}, function body.
+function sayHello(){console.log('Hello!')}
+sayHello(), call it in console
